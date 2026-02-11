@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💫 About Me:
+💫 About Me:<br>
 🔭 I’m currently working on Building high-performance backend systems + high-frequency trading algorithms (C++) as a Prop Trader & Backend Developer. <br>👫 I’m looking to collaborate on Fintech/HFT backends, scalable microservices (Java/Spring), and cloud-native architecture + CI/CD. <br>🤝 I’m looking for help with System design for low-latency trading systems, production-grade Kafka/Spring patterns, and scaling deployments on cloud. <br>🌱 I’m currently learning Better cloud + devops practices (AWS, Docker, CI/CD) and expanding into Kotlin/Jetpack Compose. <br>💬 Ask me about Derivatives trading, algorithmic strategies, DSA prep, and building AI-powered EdTech tools. <br>⚡ Fun fact I’ve hit LeetCode Knight (1800+) and I’m NISM/SEBI-certified for market research. <br>
 
 
